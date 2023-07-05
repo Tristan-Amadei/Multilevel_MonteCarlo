@@ -68,12 +68,10 @@ As we show in this project, this variance can decrease even further by combining
   </tr>
 </table>
 
+- MC = Standard Monte-Carlo
+- MLMC = Multilevel Monte-Carlo
+- QMLMC = Multi-Level Randomized Quasi-Monte-Carlo
+
+<br />
 It becomes evident that Multilevel Monte-Carlo makes it possible to greatly reduce the variance, but at the cost of much higher complexity and computational time. <br />
 It is then necessary to make a compromise between CPU time and desired variance.
-
-
-
-
-
-
-
